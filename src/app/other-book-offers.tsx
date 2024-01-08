@@ -5,7 +5,7 @@ import BookCard from "@/components/book-card";
 
 const OTHER_BOOKS = [
   {
-    img: `/image/books/RectangleBig1.svg`,
+    img: `/image/books/gfvb.jpg`,
     category: "Frank Herbert",
     title: "Dune",
     desc: "A classic epic that explores political intrigue and power struggles on a desert planet.",
@@ -13,7 +13,7 @@ const OTHER_BOOKS = [
     offPrice: "$79",
   },
   {
-    img: `/image/books/RectangleBig7.svg`,
+    img: `/image/books/po.webp`,
     category: "William Gibson",
     title: "Neuromancer",
     desc: "A pioneering cyberpunk novel filled with futuristic technology and hackers.",
@@ -21,7 +21,7 @@ const OTHER_BOOKS = [
     offPrice: "$79",
   },
   {
-    img: `/image/books/RectangleBig1.svg`,
+    img: `/image/books/ppp.jpeg`,
     category: "J.R.R. Tolkien",
     title: "The Hobbit",
     desc: "A timeless adventure through Middle-earth, featuring Bilbo Baggins and his quest.",
